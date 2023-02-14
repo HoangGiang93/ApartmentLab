@@ -1,0 +1,12 @@
+[submodule "Plugins/UUtils"]
+	path = Plugins/UUtils
+	url = git@github.com:robcog-iai/UUtils.git
+[submodule "Plugins/URoboViz"]
+	path = Plugins/URoboViz
+	url = git@github.com:HoangGiang93/URoboViz.git
+[submodule "Plugins/UROSBridge"]
+	path = Plugins/UROSBridge
+	url = git@github.com:robcog-iai/UROSBridge.git
+[submodule "Plugins/URoboVision"]
+	path = Plugins/URoboVision
+	url = git@github.com:robcog-iai/URoboVision.git
